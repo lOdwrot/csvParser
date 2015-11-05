@@ -1,0 +1,4 @@
+fileinput=C:\\Users\\lodwr\\Desktop\\LABdatabases\\sample.csv
+outputFilename=C:\\Users\\lodwr\\Desktop\\LABdatabases\\
+errorsFilename=C:\\Users\\lodwr\\Desktop\\LABdatabases\\
+rowsPerFile=1000
